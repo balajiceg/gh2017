@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Van Allen Hospital</name>
+<Point><coordinates>77.493761,10.232439,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>KHMS Integrated Medical Centre</name>
+<Point><coordinates>77.485833,10.238731,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pasam Hospital</name>
+<Point><coordinates>77.500673,10.245565,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Government Hospital</name>
+<Point><coordinates>77.492244,10.237852,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
